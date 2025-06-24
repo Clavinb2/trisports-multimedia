@@ -973,7 +973,7 @@ html, body {
 
 .counter {
     margin-bottom: 30px;
-    background-color: #309f0e;
+    background-color: #8c8f94;
     background: transparent;
     font-size: 40px;
     font-weight: 300;
@@ -1173,6 +1173,11 @@ a.twitter-bg {
     border-color: #55acee; 
 }
 
+a.Instagram-bg {
+    color: #da0bad;
+    border-color: #da0bad;
+}
+
 a.twitter-bg:hover {
     background-color: #55acee;
 }
@@ -1248,7 +1253,7 @@ a.linkedin-bg:hover {
 }
 
 .portfolio-sorting li .active {
-    background-color: #6fc754;
+    background-color: #7f7f7f;
     color: #fff;  
     box-shadow: none;   
 }
