@@ -1209,6 +1209,15 @@ a.linkedin-bg:hover {
   background-color: #007bb5;
 }
 
+a.instagram-bg {
+  color: #f200ff;
+  border-color: #f200ff;
+}
+
+a.instagram-bg:hover {
+  background-color: #b402be;
+}
+
 .copyright .text-right {
     padding: 4px 0;
 }
