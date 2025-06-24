@@ -459,8 +459,8 @@ select {
 
 .nav-tabs.tab-style > li.active > a,
 .nav-tabs.tab-style > li > a:hover {
-    border: 1px solid #6fc754;
-    background-color: #6fc754;
+    border: 1px solid #255716;
+    background-color: #255716;
     color: rgb(255, 255, 255);
 }
 
@@ -569,7 +569,7 @@ select {
 
 .pagination > li > a {
   border: none;
-  color: #292a2c;
+  color: #ffffff;
   background-color: #f5f5f8;
   padding: 10px 15px;
   border-radius: 10px;
@@ -682,7 +682,7 @@ html, body {
     padding: 0;
     font-size: 16px;
     position: relative;
-    color: #26272d;
+    color: #ffffff;
     line-height: 26px;
 }
 
@@ -780,7 +780,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/Bunninadden-team-photo.jpg) no-repeat center / cover; 
+    background: url(../img/pexels-caleboquendo-10024744.jpg) no-repeat center / cover; 
     height: 100%;
     width: 100%;
     display: table;
@@ -821,7 +821,7 @@ html, body {
     position: relative;
     margin: 45px 0 30px;
     font-size: 20px;
-    color: #26272d;
+    color: #ffffff;
 }
 
 .hero-text .btn {
@@ -830,8 +830,8 @@ html, body {
 }
 
 .hero-text .btn:hover {
-    background-color: #26272d;
-    color: #fff;
+    background-color: #fdfeff;
+    color: #0d5c34;
 }
 
 .hero .breadcrumb {
@@ -871,7 +871,7 @@ html, body {
 }
 
 .subpage-hero a:hover {
-    color: #6fc754;
+    color: #ffffff;
 }
 
 .portfolio-hero {
