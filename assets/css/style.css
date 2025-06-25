@@ -882,6 +882,10 @@ html, body {
     background: url(../img/u21-2022-winners.jpg) no-repeat center / cover;     
 }
 
+.about-hero {
+    background: url(../img/pexels-dominika-polakova-719696518-31329891.jpg) no-repeat center / cover;     
+}
+
 .contact-hero {
     background: url(../img/pexels-tima-miroshnichenko-5380838.jpg) no-repeat center / cover;     
 }
